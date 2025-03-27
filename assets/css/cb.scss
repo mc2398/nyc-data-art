@@ -4,7 +4,6 @@
 # pulled in from "theme.yml" and "config-theme-colors.csv"
 ---
 @charset "utf-8";
-
 /* base variables pulled from theme.yml */
 $base-font-family: {{ site.data.theme.base-font-family | default: '""' }};
 $base-font-size: {{ site.data.theme.base-font-size | default: '""' }};
