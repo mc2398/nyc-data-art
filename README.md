@@ -1,4 +1,7 @@
-# CollectionBuilder-CSV
+# NYC Data Art
+This project was created as part of the Spring 2025 CollectionBuilder LIS Student Program- the project collected data art objects created by a handful of New York City based students and data professionals.  
+
+## Information About CollectionBuilder:
 
 CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
 Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
@@ -6,7 +9,7 @@ The resulting static site can be hosted on any basic web server (or built automa
 
 Visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for step-by-step details for getting started and building collections!
 
-## Brief Overview of Building a Collection
+### Brief Overview of Building a Collection
 
 The [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) contain detailed information about building a collection from start to finish--including installing software, using Git/GitHub, preparing digital objects, and formatting metadata.
 However, here is a super quick overview of the process:
@@ -21,7 +24,7 @@ Please feel free to ask questions in the main [CollectionBuilder discussion foru
 
 ----------
 
-## CollectionBuilder 
+### CollectionBuilder 
 
 <https://collectionbuilder.github.io/>
 
@@ -34,7 +37,7 @@ Object metadata is exposed using [Schema.org](http://schema.org) and [Open Graph
 
 Questions can be directed to **collectionbuilder.team@gmail.com**
 
-## License
+### License
 
 CollectionBuilder documentation and general web content is licensed [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/). 
 This license does *NOT* include any objects or images used in digital collections, which may have individually applied licenses described by a "rights" field.
