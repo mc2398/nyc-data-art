@@ -23,7 +23,7 @@ title: NYC Data Art
 tagline: A digital collection of data physicalizations
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection of data art produced by NYC based data scientists."
+description: "A collection of data art produced by NYC based data scientists and grad students."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: new york city; data physicalization; data art
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
