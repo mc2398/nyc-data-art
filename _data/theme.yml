@@ -94,7 +94,7 @@ navbar-background: bg-dark
 bootswatch: lux
 
 # THEME FONTS [optional!]
-base-font-size: 1.5em
+base-font-size: 1.4em
 text-color: "#000000"
 link-color: "#0d6efd"
 base-font-family: # comment out for bootstrap defaults. e.g. Roboto

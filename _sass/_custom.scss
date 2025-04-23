@@ -13,6 +13,11 @@
 #home-title-box p{
     padding-left: 5vw;
 }
-.cloud-pad {
-    padding: 20px;
+#cloud-div-subject a.btn {
+    padding: 1vw;
+    line-height: 100%;
+    background-color: rgb(236, 238, 239);
+}
+#cloud-div-subject a.btn:hover {
+    background-color: black;
 }
